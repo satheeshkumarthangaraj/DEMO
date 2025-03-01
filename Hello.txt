@@ -1,0 +1,24 @@
+ Git
+Git is a distributed version control system. It helps developers track changes to source code during software development. Here are some key points about Git:
+
+Version Control: Git keeps a history of changes, allowing you to revert to previous versions if needed.
+Branching and Merging: You can create branches to work on different features or fixes independently and then merge them back into the main codebase.
+Collaboration: Multiple developers can work on the same project simultaneously without interfering with each other's work.
+GitHub
+GitHub is a web-based platform that uses Git for version control. It provides a collaborative environment for developers. Here are some key features of GitHub:
+
+Repositories: GitHub hosts repositories where your project's code and history are stored.
+Collaboration Tools: It offers tools like pull requests, issues, and project boards to facilitate collaboration and project management.
+Social Coding: Developers can follow each other, star repositories, and contribute to open-source projects.
+Use Cases
+Source Code Management: Both Git and GitHub are primarily used to manage and track changes in source code.
+Collaboration: They enable multiple developers to work together on the same project efficiently.
+Open Source Projects: GitHub is widely used for hosting open-source projects, allowing anyone to contribute.
+Example Workflow
+Clone a Repository: Copy a repository from GitHub to your local machine.
+Create a Branch: Create a new branch to work on a feature.
+Commit Changes: Save changes to the branch.
+Push Changes: Push the branch to GitHub.
+Create a Pull Request: Open a pull request on GitHub to merge the changes into the main branch.
+
+This is a high-level overview of Git and GitHub. They are powerful tools that significantly enhance the software development process.
